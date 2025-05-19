@@ -12,6 +12,8 @@ venv
 .idea
 **/artifacts/
 **/models/
+mlruns/
+output/
 
 __pycache__/
 **.env
